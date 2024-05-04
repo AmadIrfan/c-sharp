@@ -1,0 +1,8 @@
+H:\Coding\C#\semester 4\Rendoms\Rendoms\bin\Debug\Rendoms.exe.config
+H:\Coding\C#\semester 4\Rendoms\Rendoms\bin\Debug\Rendoms.exe
+H:\Coding\C#\semester 4\Rendoms\Rendoms\bin\Debug\Rendoms.pdb
+H:\Coding\C#\semester 4\Rendoms\Rendoms\obj\Debug\Rendoms.csproj.AssemblyReference.cache
+H:\Coding\C#\semester 4\Rendoms\Rendoms\obj\Debug\Rendoms.csproj.SuggestedBindingRedirects.cache
+H:\Coding\C#\semester 4\Rendoms\Rendoms\obj\Debug\Rendoms.csproj.CoreCompileInputs.cache
+H:\Coding\C#\semester 4\Rendoms\Rendoms\obj\Debug\Rendoms.exe
+H:\Coding\C#\semester 4\Rendoms\Rendoms\obj\Debug\Rendoms.pdb

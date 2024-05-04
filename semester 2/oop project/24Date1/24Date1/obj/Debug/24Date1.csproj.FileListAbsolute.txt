@@ -1,0 +1,7 @@
+D:\C#\oop 1\24Date1\24Date1\bin\Debug\24Date1.exe.config
+D:\C#\oop 1\24Date1\24Date1\bin\Debug\24Date1.exe
+D:\C#\oop 1\24Date1\24Date1\bin\Debug\24Date1.pdb
+D:\C#\oop 1\24Date1\24Date1\obj\Debug\24Date1.csproj.AssemblyReference.cache
+D:\C#\oop 1\24Date1\24Date1\obj\Debug\24Date1.csproj.CoreCompileInputs.cache
+D:\C#\oop 1\24Date1\24Date1\obj\Debug\24Date1.exe
+D:\C#\oop 1\24Date1\24Date1\obj\Debug\24Date1.pdb

@@ -1,0 +1,28 @@
+E:\C#\login_signup\login_signup\bin\Debug\netcoreapp3.1\login_signup.exe
+E:\C#\login_signup\login_signup\bin\Debug\netcoreapp3.1\login_signup.deps.json
+E:\C#\login_signup\login_signup\bin\Debug\netcoreapp3.1\login_signup.runtimeconfig.json
+E:\C#\login_signup\login_signup\bin\Debug\netcoreapp3.1\login_signup.runtimeconfig.dev.json
+E:\C#\login_signup\login_signup\bin\Debug\netcoreapp3.1\login_signup.dll
+E:\C#\login_signup\login_signup\bin\Debug\netcoreapp3.1\login_signup.pdb
+E:\C#\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.csproj.AssemblyReference.cache
+E:\C#\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.AssemblyInfoInputs.cache
+E:\C#\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.AssemblyInfo.cs
+E:\C#\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.csproj.CoreCompileInputs.cache
+E:\C#\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.dll
+E:\C#\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.pdb
+E:\C#\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.genruntimeconfig.cache
+F:\Coding\C#\semester 2\login_signup\login_signup\bin\Debug\netcoreapp3.1\login_signup.exe
+F:\Coding\C#\semester 2\login_signup\login_signup\bin\Debug\netcoreapp3.1\login_signup.deps.json
+F:\Coding\C#\semester 2\login_signup\login_signup\bin\Debug\netcoreapp3.1\login_signup.runtimeconfig.json
+F:\Coding\C#\semester 2\login_signup\login_signup\bin\Debug\netcoreapp3.1\login_signup.runtimeconfig.dev.json
+F:\Coding\C#\semester 2\login_signup\login_signup\bin\Debug\netcoreapp3.1\login_signup.dll
+F:\Coding\C#\semester 2\login_signup\login_signup\bin\Debug\netcoreapp3.1\login_signup.pdb
+F:\Coding\C#\semester 2\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.csproj.AssemblyReference.cache
+F:\Coding\C#\semester 2\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\C#\semester 2\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.AssemblyInfoInputs.cache
+F:\Coding\C#\semester 2\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.AssemblyInfo.cs
+F:\Coding\C#\semester 2\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.csproj.CoreCompileInputs.cache
+F:\Coding\C#\semester 2\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.dll
+F:\Coding\C#\semester 2\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.pdb
+F:\Coding\C#\semester 2\login_signup\login_signup\obj\Debug\netcoreapp3.1\login_signup.genruntimeconfig.cache

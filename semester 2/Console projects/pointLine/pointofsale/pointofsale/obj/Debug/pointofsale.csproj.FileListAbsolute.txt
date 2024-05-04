@@ -1,0 +1,7 @@
+D:\Coding\C#\assignment\pointofsale\pointofsale\bin\Debug\pointofsale.exe.config
+D:\Coding\C#\assignment\pointofsale\pointofsale\bin\Debug\pointofsale.exe
+D:\Coding\C#\assignment\pointofsale\pointofsale\bin\Debug\pointofsale.pdb
+D:\Coding\C#\assignment\pointofsale\pointofsale\obj\Debug\pointofsale.csproj.AssemblyReference.cache
+D:\Coding\C#\assignment\pointofsale\pointofsale\obj\Debug\pointofsale.csproj.CoreCompileInputs.cache
+D:\Coding\C#\assignment\pointofsale\pointofsale\obj\Debug\pointofsale.exe
+D:\Coding\C#\assignment\pointofsale\pointofsale\obj\Debug\pointofsale.pdb

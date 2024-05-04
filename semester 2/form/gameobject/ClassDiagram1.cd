@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameObject.BL.Boundary">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAIAAAAAAAAAAIAAAAAAAQAAEhAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Boundary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject.BL.gameobjects">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAwAAgAAIAAKgAAAMAAAAAACAAAAAAAAAgAkAQBBEA=</HashCode>
+      <FileName>BL\gameobjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject.BL.point">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAABgAGAAAAA=</HashCode>
+      <FileName>BL\point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

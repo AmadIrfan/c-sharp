@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{97BCB4AB-4CE7-4EA3-ADB9-214CDC55FB17}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>gameDevp</RootNamespace>
+    <AssemblyName>gameDevp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EZInput, Version=1.3.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EZInput.1.3.2\lib\netstandard2.0\EZInput.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameForm.Designer.cs">
+      <DependentUpon>GameForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameForm2.Designer.cs">
+      <DependentUpon>GameForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GameForm.resx">
+      <DependentUpon>GameForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blurry-lights-background-falling-snow-abstract-colorful-winter-bg-blurry-lights-background-falling-snow-abstract-137052111.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Battleground1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead__000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead__001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead__002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead__003.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead__004.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead__005.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead__006.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead__007.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead__008.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead__009.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle__001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle__002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle__003.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle__004.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle__005.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle__006.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle__007.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle__008.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle__009.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump__000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump__001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump__002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump__003.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump__004.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump__005.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump__006.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump__007.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump__008.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump__009.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run__000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run__001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run__002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run__003.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run__004.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run__005.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run__006.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run__007.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run__008.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run__009.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide__000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide__001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide__002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide__003.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide__004.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide__005.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide__006.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide__007.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide__008.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide__009.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon43.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attack1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attack2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attack3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attack4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attack5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attaxk6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hurt1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hurt2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hurt3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hurt4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hurt5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Run10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Walk1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Walk2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Walk3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Walk4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Walk5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Walk6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attack21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attack31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attack41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead1 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attack1 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attack1 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attack6 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hurt1 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hurt2 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hurt2 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead2 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attaxk6 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Idle__000.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

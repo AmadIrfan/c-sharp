@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="pointsales.UI.CustomerUI" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\CustomerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pointsales.UI.menu">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQABAAAAIAAAQAAAAAAAAAAAAAEAgQAACAAAA=</HashCode>
+      <FileName>UI\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pointsales.UI.MuserUI" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>UI\MuserUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pointsales.UI.ProductUI">
+    <Position X="8.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAABAAAAEAAAAAAAAAAAAAAAAAAAAAAAAIEIAA=</HashCode>
+      <FileName>UI\ProductUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

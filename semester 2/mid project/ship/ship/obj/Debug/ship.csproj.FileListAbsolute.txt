@@ -1,0 +1,21 @@
+C:\Users\Amad Irfan\source\repos\ship\ship\bin\Debug\ship.exe.config
+C:\Users\Amad Irfan\source\repos\ship\ship\bin\Debug\ship.exe
+C:\Users\Amad Irfan\source\repos\ship\ship\bin\Debug\ship.pdb
+C:\Users\Amad Irfan\source\repos\ship\ship\obj\Debug\ship.csproj.AssemblyReference.cache
+C:\Users\Amad Irfan\source\repos\ship\ship\obj\Debug\ship.csproj.CoreCompileInputs.cache
+C:\Users\Amad Irfan\source\repos\ship\ship\obj\Debug\ship.exe
+C:\Users\Amad Irfan\source\repos\ship\ship\obj\Debug\ship.pdb
+D:\Coding\C#\ship\ship\bin\Debug\ship.exe.config
+D:\Coding\C#\ship\ship\bin\Debug\ship.exe
+D:\Coding\C#\ship\ship\bin\Debug\ship.pdb
+D:\Coding\C#\ship\ship\obj\Debug\ship.csproj.AssemblyReference.cache
+D:\Coding\C#\ship\ship\obj\Debug\ship.csproj.CoreCompileInputs.cache
+D:\Coding\C#\ship\ship\obj\Debug\ship.exe
+D:\Coding\C#\ship\ship\obj\Debug\ship.pdb
+D:\Coding\C#\assignment\ship\ship\bin\Debug\ship.exe.config
+D:\Coding\C#\assignment\ship\ship\bin\Debug\ship.exe
+D:\Coding\C#\assignment\ship\ship\bin\Debug\ship.pdb
+D:\Coding\C#\assignment\ship\ship\obj\Debug\ship.csproj.AssemblyReference.cache
+D:\Coding\C#\assignment\ship\ship\obj\Debug\ship.csproj.CoreCompileInputs.cache
+D:\Coding\C#\assignment\ship\ship\obj\Debug\ship.exe
+D:\Coding\C#\assignment\ship\ship\obj\Debug\ship.pdb

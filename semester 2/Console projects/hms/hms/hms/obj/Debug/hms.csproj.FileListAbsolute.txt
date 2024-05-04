@@ -1,0 +1,23 @@
+E:\OOP\PROJECT\myHms\hms\hms\bin\Debug\hms.exe.config
+E:\OOP\PROJECT\myHms\hms\hms\bin\Debug\hms.exe
+E:\OOP\PROJECT\myHms\hms\hms\bin\Debug\hms.pdb
+E:\OOP\PROJECT\myHms\hms\hms\obj\Debug\hms.csprojAssemblyReference.cache
+E:\OOP\PROJECT\myHms\hms\hms\obj\Debug\hms.csproj.CoreCompileInputs.cache
+E:\OOP\PROJECT\myHms\hms\hms\obj\Debug\hms.exe
+E:\OOP\PROJECT\myHms\hms\hms\obj\Debug\hms.pdb
+D:\Coding\C#\hms\hms\hms\bin\Debug\hms.exe.config
+D:\Coding\C#\hms\hms\hms\bin\Debug\hms.exe
+D:\Coding\C#\hms\hms\hms\bin\Debug\hms.pdb
+D:\Coding\C#\hms\hms\hms\obj\Debug\hms.csproj.AssemblyReference.cache
+D:\Coding\C#\hms\hms\hms\obj\Debug\hms.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\hms\hms\hms\obj\Debug\hms.csproj.CoreCompileInputs.cache
+D:\Coding\C#\hms\hms\hms\obj\Debug\hms.exe
+D:\Coding\C#\hms\hms\hms\obj\Debug\hms.pdb
+F:\Coding\C#\semester 2\hms\hms\hms\bin\Debug\hms.exe.config
+F:\Coding\C#\semester 2\hms\hms\hms\bin\Debug\hms.exe
+F:\Coding\C#\semester 2\hms\hms\hms\bin\Debug\hms.pdb
+F:\Coding\C#\semester 2\hms\hms\hms\obj\Debug\hms.csproj.AssemblyReference.cache
+F:\Coding\C#\semester 2\hms\hms\hms\obj\Debug\hms.csproj.SuggestedBindingRedirects.cache
+F:\Coding\C#\semester 2\hms\hms\hms\obj\Debug\hms.csproj.CoreCompileInputs.cache
+F:\Coding\C#\semester 2\hms\hms\hms\obj\Debug\hms.exe
+F:\Coding\C#\semester 2\hms\hms\hms\obj\Debug\hms.pdb

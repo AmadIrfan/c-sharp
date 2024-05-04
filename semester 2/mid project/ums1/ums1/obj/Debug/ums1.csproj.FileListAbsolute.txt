@@ -1,0 +1,7 @@
+C:\Users\Amad Irfan\source\repos\ums1\ums1\bin\Debug\ums1.exe.config
+C:\Users\Amad Irfan\source\repos\ums1\ums1\bin\Debug\ums1.exe
+C:\Users\Amad Irfan\source\repos\ums1\ums1\bin\Debug\ums1.pdb
+C:\Users\Amad Irfan\source\repos\ums1\ums1\obj\Debug\ums1.csproj.AssemblyReference.cache
+C:\Users\Amad Irfan\source\repos\ums1\ums1\obj\Debug\ums1.csproj.CoreCompileInputs.cache
+C:\Users\Amad Irfan\source\repos\ums1\ums1\obj\Debug\ums1.exe
+C:\Users\Amad Irfan\source\repos\ums1\ums1\obj\Debug\ums1.pdb

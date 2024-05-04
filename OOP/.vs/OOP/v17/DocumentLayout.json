@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\C#\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{716A6C2D-EFDF-4444-ABB6-55170CA2D623}|OOP\\OOP.csproj|D:\\Coding\\C#\\OOP\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716A6C2D-EFDF-4444-ABB6-55170CA2D623}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716A6C2D-EFDF-4444-ABB6-55170CA2D623}|OOP\\OOP.csproj|d:\\coding\\c#\\oop\\oop\\dl\\persondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716A6C2D-EFDF-4444-ABB6-55170CA2D623}|OOP\\OOP.csproj|solutionrelative:oop\\dl\\persondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716A6C2D-EFDF-4444-ABB6-55170CA2D623}|OOP\\OOP.csproj|d:\\coding\\c#\\oop\\oop\\bl\\grandfather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716A6C2D-EFDF-4444-ABB6-55170CA2D623}|OOP\\OOP.csproj|solutionrelative:oop\\bl\\grandfather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716A6C2D-EFDF-4444-ABB6-55170CA2D623}|OOP\\OOP.csproj|d:\\coding\\c#\\oop\\oop\\bl\\father.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716A6C2D-EFDF-4444-ABB6-55170CA2D623}|OOP\\OOP.csproj|solutionrelative:oop\\bl\\father.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716A6C2D-EFDF-4444-ABB6-55170CA2D623}|OOP\\OOP.csproj|d:\\coding\\c#\\oop\\oop\\bl\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716A6C2D-EFDF-4444-ABB6-55170CA2D623}|OOP\\OOP.csproj|solutionrelative:oop\\bl\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716A6C2D-EFDF-4444-ABB6-55170CA2D623}|OOP\\OOP.csproj|d:\\coding\\c#\\oop\\oop\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716A6C2D-EFDF-4444-ABB6-55170CA2D623}|OOP\\OOP.csproj|solutionrelative:oop\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\OOP\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "D:\\Coding\\C#\\OOP\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AQIAAAgAAABAZmZmZmYkwBAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:31:52.124Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\OOP\\OOP\\interfaces\\IPerson.cs",
+              "RelativeDocumentMoniker": "OOP\\interfaces\\IPerson.cs",
+              "ToolTip": "D:\\Coding\\C#\\OOP\\OOP\\interfaces\\IPerson.cs",
+              "RelativeToolTip": "OOP\\interfaces\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:45:35.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Child.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\OOP\\OOP\\BL\\Child.cs",
+              "RelativeDocumentMoniker": "OOP\\BL\\Child.cs",
+              "ToolTip": "D:\\Coding\\C#\\OOP\\OOP\\BL\\Child.cs",
+              "RelativeToolTip": "OOP\\BL\\Child.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:30:02.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Father.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\OOP\\OOP\\BL\\Father.cs",
+              "RelativeDocumentMoniker": "OOP\\BL\\Father.cs",
+              "ToolTip": "D:\\Coding\\C#\\OOP\\OOP\\BL\\Father.cs",
+              "RelativeToolTip": "OOP\\BL\\Father.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:29:54.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GrandFather.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\OOP\\OOP\\BL\\GrandFather.cs",
+              "RelativeDocumentMoniker": "OOP\\BL\\GrandFather.cs",
+              "ToolTip": "D:\\Coding\\C#\\OOP\\OOP\\BL\\GrandFather.cs",
+              "RelativeToolTip": "OOP\\BL\\GrandFather.cs",
+              "ViewState": "AQIAAAgAAADAy8zMzMwYwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:29:44.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonDL.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\OOP\\OOP\\DL\\PersonDL.cs",
+              "RelativeDocumentMoniker": "OOP\\DL\\PersonDL.cs",
+              "ToolTip": "D:\\Coding\\C#\\OOP\\OOP\\DL\\PersonDL.cs",
+              "RelativeToolTip": "OOP\\DL\\PersonDL.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:24:09.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\bin\Debug\FinanceManage1.exe.config
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\bin\Debug\FinanceManage1.exe
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\bin\Debug\FinanceManage1.pdb
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.csproj.AssemblyReference.cache
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.Dashboard.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.Properties.Resources.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.csproj.GenerateResource.cache
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.csproj.CoreCompileInputs.cache
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.exe
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.pdb
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.Income.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\bin\Debug\FinanceDb.mdf
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\bin\Debug\FinanceDb_log.ldf
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.Expense.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.Login.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.Users.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.View_Expense.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1\obj\Debug\FinanceManage1.View_Income.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.csproj.AssemblyReference.cache
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.Dashboard.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.Expense.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.Income.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.Login.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.Properties.Resources.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.Users.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.View_Expense.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.View_Income.resources
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.csproj.GenerateResource.cache
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.csproj.CoreCompileInputs.cache
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.exe
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.pdb
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\bin\Debug\FinanceDb.mdf
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\bin\Debug\FinanceDb_log.ldf
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\bin\Debug\FinanceManage1.exe.config
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\bin\Debug\FinanceManage1.exe
+C:\Users\tjbao\Desktop\VS Projects\FinanceManage1 - Kopie\bin\Debug\FinanceManage1.pdb
+H:\Coding\C#\FinanceManage1 - Kopie\bin\Debug\FinanceDb.mdf
+H:\Coding\C#\FinanceManage1 - Kopie\bin\Debug\FinanceDb_log.ldf
+H:\Coding\C#\FinanceManage1 - Kopie\bin\Debug\FinanceManage1.exe.config
+H:\Coding\C#\FinanceManage1 - Kopie\bin\Debug\FinanceManage1.exe
+H:\Coding\C#\FinanceManage1 - Kopie\bin\Debug\FinanceManage1.pdb
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.csproj.AssemblyReference.cache
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.Expense.resources
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.Income.resources
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.Login.resources
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.Properties.Resources.resources
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.Users.resources
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.View_Income.resources
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.csproj.GenerateResource.cache
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.csproj.CoreCompileInputs.cache
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.exe
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.pdb
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.SideBar.resources
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.view_expanse.resources
+H:\Coding\C#\FinanceManage1 - Kopie\obj\Debug\FinanceManage1.MyDashBoard.resources

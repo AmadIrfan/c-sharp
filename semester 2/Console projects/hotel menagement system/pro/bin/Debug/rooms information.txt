@@ -1,0 +1,7 @@
+single,250
+double,500
+triple,1000
+studio,1200
+cabana,1500
+villa,2500
+smoking,6000

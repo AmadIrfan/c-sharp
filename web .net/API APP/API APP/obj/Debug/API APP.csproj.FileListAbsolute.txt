@@ -1,0 +1,10 @@
+H:\Coding\C#\web .net\API APP\API APP\bin\Debug\API APP.exe.config
+H:\Coding\C#\web .net\API APP\API APP\bin\Debug\API APP.exe
+H:\Coding\C#\web .net\API APP\API APP\bin\Debug\API APP.pdb
+H:\Coding\C#\web .net\API APP\API APP\obj\Debug\API APP.csproj.AssemblyReference.cache
+H:\Coding\C#\web .net\API APP\API APP\obj\Debug\API_APP.Form1.resources
+H:\Coding\C#\web .net\API APP\API APP\obj\Debug\API_APP.Properties.Resources.resources
+H:\Coding\C#\web .net\API APP\API APP\obj\Debug\API APP.csproj.GenerateResource.cache
+H:\Coding\C#\web .net\API APP\API APP\obj\Debug\API APP.csproj.CoreCompileInputs.cache
+H:\Coding\C#\web .net\API APP\API APP\obj\Debug\API APP.exe
+H:\Coding\C#\web .net\API APP\API APP\obj\Debug\API APP.pdb

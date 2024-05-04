@@ -1,0 +1,8 @@
+F:\Coding\C#\semester 2\form\amna\amna\bin\Debug\amna.exe.config
+F:\Coding\C#\semester 2\form\amna\amna\bin\Debug\amna.exe
+F:\Coding\C#\semester 2\form\amna\amna\bin\Debug\amna.pdb
+F:\Coding\C#\semester 2\form\amna\amna\obj\Debug\simplePro.csproj.AssemblyReference.cache
+F:\Coding\C#\semester 2\form\amna\amna\obj\Debug\simplePro.csproj.SuggestedBindingRedirects.cache
+F:\Coding\C#\semester 2\form\amna\amna\obj\Debug\simplePro.csproj.CoreCompileInputs.cache
+F:\Coding\C#\semester 2\form\amna\amna\obj\Debug\amna.exe
+F:\Coding\C#\semester 2\form\amna\amna\obj\Debug\amna.pdb

@@ -1,0 +1,16 @@
+D:\Coding\C#\newData\bin\Debug\newData.exe.config
+D:\Coding\C#\newData\bin\Debug\newData.exe
+D:\Coding\C#\newData\bin\Debug\newData.pdb
+D:\Coding\C#\newData\obj\Debug\newData.csproj.AssemblyReference.cache
+D:\Coding\C#\newData\obj\Debug\newData.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\newData\obj\Debug\newData.csproj.CoreCompileInputs.cache
+D:\Coding\C#\newData\obj\Debug\newData.exe
+D:\Coding\C#\newData\obj\Debug\newData.pdb
+F:\Coding\C#\semester 2\newData\bin\Debug\newData.exe.config
+F:\Coding\C#\semester 2\newData\bin\Debug\newData.exe
+F:\Coding\C#\semester 2\newData\bin\Debug\newData.pdb
+F:\Coding\C#\semester 2\newData\obj\Debug\newData.csproj.AssemblyReference.cache
+F:\Coding\C#\semester 2\newData\obj\Debug\newData.csproj.SuggestedBindingRedirects.cache
+F:\Coding\C#\semester 2\newData\obj\Debug\newData.csproj.CoreCompileInputs.cache
+F:\Coding\C#\semester 2\newData\obj\Debug\newData.exe
+F:\Coding\C#\semester 2\newData\obj\Debug\newData.pdb

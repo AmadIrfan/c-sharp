@@ -1,0 +1,4 @@
+aleeza,123,receptionist
+noor,111,customer
+pakiza,222,admin
+s,s,worker

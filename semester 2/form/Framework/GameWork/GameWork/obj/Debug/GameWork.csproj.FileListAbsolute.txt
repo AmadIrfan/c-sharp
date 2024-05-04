@@ -1,0 +1,6 @@
+D:\Coding\C#\Framework\GameWork\GameWork\bin\Debug\GameWork.dll
+D:\Coding\C#\Framework\GameWork\GameWork\bin\Debug\GameWork.pdb
+D:\Coding\C#\Framework\GameWork\GameWork\obj\Debug\GameWork.csproj.AssemblyReference.cache
+D:\Coding\C#\Framework\GameWork\GameWork\obj\Debug\GameWork.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Framework\GameWork\GameWork\obj\Debug\GameWork.dll
+D:\Coding\C#\Framework\GameWork\GameWork\obj\Debug\GameWork.pdb

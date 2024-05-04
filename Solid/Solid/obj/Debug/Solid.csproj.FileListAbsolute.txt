@@ -1,0 +1,7 @@
+D:\Coding\C#\Solid\Solid\bin\Debug\Solid.exe.config
+D:\Coding\C#\Solid\Solid\bin\Debug\Solid.exe
+D:\Coding\C#\Solid\Solid\bin\Debug\Solid.pdb
+D:\Coding\C#\Solid\Solid\obj\Debug\Solid.csproj.AssemblyReference.cache
+D:\Coding\C#\Solid\Solid\obj\Debug\Solid.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Solid\Solid\obj\Debug\Solid.exe
+D:\Coding\C#\Solid\Solid\obj\Debug\Solid.pdb

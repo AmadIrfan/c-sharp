@@ -1,0 +1,15 @@
+D:\Coding\C#\Game\gameDevp\gameDevp\bin\Debug\gameDevp.exe.config
+D:\Coding\C#\Game\gameDevp\gameDevp\bin\Debug\gameDevp.exe
+D:\Coding\C#\Game\gameDevp\gameDevp\bin\Debug\gameDevp.pdb
+D:\Coding\C#\Game\gameDevp\gameDevp\obj\Debug\gameDevp.csproj.AssemblyReference.cache
+D:\Coding\C#\Game\gameDevp\gameDevp\obj\Debug\gameDevp.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Game\gameDevp\gameDevp\obj\Debug\gameDevp.Properties.Resources.resources
+D:\Coding\C#\Game\gameDevp\gameDevp\obj\Debug\gameDevp.csproj.GenerateResource.cache
+D:\Coding\C#\Game\gameDevp\gameDevp\obj\Debug\gameDevp.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Game\gameDevp\gameDevp\obj\Debug\gameDevp.exe
+D:\Coding\C#\Game\gameDevp\gameDevp\obj\Debug\gameDevp.pdb
+D:\Coding\C#\Game\gameDevp\gameDevp\obj\Debug\gameDevp.MainForm.resources
+D:\Coding\C#\Game\gameDevp\gameDevp\bin\Debug\EZInput.dll
+D:\Coding\C#\Game\gameDevp\gameDevp\bin\Debug\EZInput.xml
+D:\Coding\C#\Game\gameDevp\gameDevp\obj\Debug\gameDevp.csproj.CopyComplete
+D:\Coding\C#\Game\GameDevp\gameDevp\obj\Debug\gameDevp.lblnum.resources

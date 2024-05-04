@@ -1,0 +1,16 @@
+D:\Coding\C#\form\finalper\finalper\bin\Debug\finalper.exe.config
+D:\Coding\C#\form\finalper\finalper\bin\Debug\finalper.exe
+D:\Coding\C#\form\finalper\finalper\bin\Debug\finalper.pdb
+D:\Coding\C#\form\finalper\finalper\obj\Debug\finalper.csproj.AssemblyReference.cache
+D:\Coding\C#\form\finalper\finalper\obj\Debug\finalper.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\form\finalper\finalper\obj\Debug\finalper.csproj.CoreCompileInputs.cache
+D:\Coding\C#\form\finalper\finalper\obj\Debug\finalper.exe
+D:\Coding\C#\form\finalper\finalper\obj\Debug\finalper.pdb
+F:\Coding\C#\semester 2\finalper\finalper\bin\Debug\finalper.exe.config
+F:\Coding\C#\semester 2\finalper\finalper\bin\Debug\finalper.exe
+F:\Coding\C#\semester 2\finalper\finalper\bin\Debug\finalper.pdb
+F:\Coding\C#\semester 2\finalper\finalper\obj\Debug\finalper.csproj.AssemblyReference.cache
+F:\Coding\C#\semester 2\finalper\finalper\obj\Debug\finalper.csproj.SuggestedBindingRedirects.cache
+F:\Coding\C#\semester 2\finalper\finalper\obj\Debug\finalper.csproj.CoreCompileInputs.cache
+F:\Coding\C#\semester 2\finalper\finalper\obj\Debug\finalper.exe
+F:\Coding\C#\semester 2\finalper\finalper\obj\Debug\finalper.pdb

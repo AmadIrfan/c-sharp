@@ -1,0 +1,21 @@
+C:\Users\muzai\source\repos\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\muzai\source\repos\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\muzai\source\repos\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\muzai\source\repos\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\muzai\source\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\muzai\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\muzai\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\muzai\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\muzai\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\muzai\source\repos\Calculator\obj\Debug\Calculator.pdb
+F:\Coding\C#\semester 2\form\Calculator1\obj\Debug\Calculator.csproj.AssemblyReference.cache
+F:\Coding\C#\semester 2\form\Calculator1\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+F:\Coding\C#\semester 2\form\Calculator1\obj\Debug\Calculator.Form1.resources
+F:\Coding\C#\semester 2\form\Calculator1\obj\Debug\Calculator.Properties.Resources.resources
+F:\Coding\C#\semester 2\form\Calculator1\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\Coding\C#\semester 2\form\Calculator1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\Coding\C#\semester 2\form\Calculator1\obj\Debug\Calculator.exe
+F:\Coding\C#\semester 2\form\Calculator1\obj\Debug\Calculator.pdb
+F:\Coding\C#\semester 2\form\Calculator1\bin\Debug\Calculator.exe.config
+F:\Coding\C#\semester 2\form\Calculator1\bin\Debug\Calculator.exe
+F:\Coding\C#\semester 2\form\Calculator1\bin\Debug\Calculator.pdb

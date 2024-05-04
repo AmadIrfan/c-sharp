@@ -1,0 +1,30 @@
+C:\Users\DELL\OneDrive\Desktop\2nd semester\week6\GameObject\bin\Debug\GameObject.exe.config
+C:\Users\DELL\OneDrive\Desktop\2nd semester\week6\GameObject\bin\Debug\GameObject.exe
+C:\Users\DELL\OneDrive\Desktop\2nd semester\week6\GameObject\bin\Debug\GameObject.pdb
+C:\Users\DELL\OneDrive\Desktop\2nd semester\week6\GameObject\obj\Debug\GameObject.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\2nd semester\week6\GameObject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\2nd semester\week6\GameObject\obj\Debug\GameObject.exe
+C:\Users\DELL\OneDrive\Desktop\2nd semester\week6\GameObject\obj\Debug\GameObject.pdb
+H:\Hamza\SEMESTER 02\For Friend\New folder (9)\bin\Debug\GameObject.exe.config
+H:\Hamza\SEMESTER 02\For Friend\New folder (9)\bin\Debug\GameObject.exe
+H:\Hamza\SEMESTER 02\For Friend\New folder (9)\bin\Debug\GameObject.pdb
+H:\Hamza\SEMESTER 02\For Friend\New folder (9)\obj\Debug\GameObject.csproj.AssemblyReference.cache
+H:\Hamza\SEMESTER 02\For Friend\New folder (9)\obj\Debug\GameObject.csproj.SuggestedBindingRedirects.cache
+H:\Hamza\SEMESTER 02\For Friend\New folder (9)\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+H:\Hamza\SEMESTER 02\For Friend\New folder (9)\obj\Debug\GameObject.exe
+H:\Hamza\SEMESTER 02\For Friend\New folder (9)\obj\Debug\GameObject.pdb
+D:\Coding\C#\assignment\New folder\gameobject\bin\Debug\GameObject.exe.config
+D:\Coding\C#\assignment\New folder\gameobject\bin\Debug\GameObject.exe
+D:\Coding\C#\assignment\New folder\gameobject\bin\Debug\GameObject.pdb
+D:\Coding\C#\assignment\New folder\gameobject\obj\Debug\GameObject.csproj.AssemblyReference.cache
+D:\Coding\C#\assignment\New folder\gameobject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\assignment\New folder\gameobject\obj\Debug\GameObject.exe
+D:\Coding\C#\assignment\New folder\gameobject\obj\Debug\GameObject.pdb
+F:\Coding\C#\semester 2\form\gameobject\bin\Debug\GameObject.exe.config
+F:\Coding\C#\semester 2\form\gameobject\bin\Debug\GameObject.exe
+F:\Coding\C#\semester 2\form\gameobject\bin\Debug\GameObject.pdb
+F:\Coding\C#\semester 2\form\gameobject\obj\Debug\GameObject.csproj.AssemblyReference.cache
+F:\Coding\C#\semester 2\form\gameobject\obj\Debug\GameObject.csproj.SuggestedBindingRedirects.cache
+F:\Coding\C#\semester 2\form\gameobject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+F:\Coding\C#\semester 2\form\gameobject\obj\Debug\GameObject.exe
+F:\Coding\C#\semester 2\form\gameobject\obj\Debug\GameObject.pdb

@@ -1,0 +1,26 @@
+C:\Users\amadi\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\amadi\source\repos\project\project\bin\Debug\project.exe
+C:\Users\amadi\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\amadi\source\repos\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\amadi\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\amadi\source\repos\project\project\obj\Debug\project.exe
+C:\Users\amadi\source\repos\project\project\obj\Debug\project.pdb
+E:\C#\project\project\bin\Debug\project.exe.config
+E:\C#\project\project\bin\Debug\project.exe
+E:\C#\project\project\bin\Debug\project.pdb
+E:\C#\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+E:\C#\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\C#\project\project\obj\Debug\project.exe
+E:\C#\project\project\obj\Debug\project.pdb
+D:\C#\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\C#\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\C#\project\project\obj\Debug\project.exe
+D:\C#\project\project\obj\Debug\project.pdb
+F:\Coding\C#\semester 2\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+F:\Coding\C#\semester 2\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+F:\Coding\C#\semester 2\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+F:\Coding\C#\semester 2\project\project\obj\Debug\project.exe
+F:\Coding\C#\semester 2\project\project\obj\Debug\project.pdb
+F:\Coding\C#\semester 2\project\project\bin\Debug\project.exe.config
+F:\Coding\C#\semester 2\project\project\bin\Debug\project.exe
+F:\Coding\C#\semester 2\project\project\bin\Debug\project.pdb

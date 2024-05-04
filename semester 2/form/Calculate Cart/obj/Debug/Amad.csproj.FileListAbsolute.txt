@@ -1,0 +1,8 @@
+D:\Coding\C#\Amad\bin\Debug\Amad.exe.config
+D:\Coding\C#\Amad\bin\Debug\Amad.exe
+D:\Coding\C#\Amad\bin\Debug\Amad.pdb
+D:\Coding\C#\Amad\obj\Debug\Amad.csproj.AssemblyReference.cache
+D:\Coding\C#\Amad\obj\Debug\Amad.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Amad\obj\Debug\Amad.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Amad\obj\Debug\Amad.exe
+D:\Coding\C#\Amad\obj\Debug\Amad.pdb

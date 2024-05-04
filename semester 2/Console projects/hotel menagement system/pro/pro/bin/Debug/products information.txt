@@ -1,0 +1,20 @@
+mini pizza,500
+medium pizza,800
+large pizza,1200
+family pizza,1600
+wine,5000
+visky,8000
+zinger,500
+zinger shawarma,600
+shashlik,1000 
+manchorian,1200 
+cheese shawarma,400
+smoky chicken,1400 
+malai boti,2000   
+chicken tikka,2000
+mutton tikka,5000
+beaf tikka,4000   
+paratha roll,300
+samoli,300
+tikka sandwich,400
+achari ghosht,1200

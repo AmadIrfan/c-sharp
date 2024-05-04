@@ -1,0 +1,3 @@
+apple,fruit,100,9
+bs,food,150,5
+mang,food,200,20

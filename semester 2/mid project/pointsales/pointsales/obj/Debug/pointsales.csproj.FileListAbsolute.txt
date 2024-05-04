@@ -1,0 +1,7 @@
+C:\Users\Amad Irfan\source\repos\pointsales\pointsales\bin\Debug\pointsales.exe.config
+C:\Users\Amad Irfan\source\repos\pointsales\pointsales\bin\Debug\pointsales.exe
+C:\Users\Amad Irfan\source\repos\pointsales\pointsales\bin\Debug\pointsales.pdb
+C:\Users\Amad Irfan\source\repos\pointsales\pointsales\obj\Debug\pointsales.csproj.AssemblyReference.cache
+C:\Users\Amad Irfan\source\repos\pointsales\pointsales\obj\Debug\pointsales.csproj.CoreCompileInputs.cache
+C:\Users\Amad Irfan\source\repos\pointsales\pointsales\obj\Debug\pointsales.exe
+C:\Users\Amad Irfan\source\repos\pointsales\pointsales\obj\Debug\pointsales.pdb

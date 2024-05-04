@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="uams.BL.DegreeProgram">
+    <Position X="5.25" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>RAAgIAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>BL\DegreeProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uams.BL.Student">
+    <Position X="8" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAIAAAAAQAAIAAAAAEAAAAAEBABAEgAAAAAAAAI=</HashCode>
+      <FileName>BL\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uams.BL.Subject">
+    <Position X="2.25" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAQAAAIAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

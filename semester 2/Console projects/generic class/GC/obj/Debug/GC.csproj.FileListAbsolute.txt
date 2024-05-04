@@ -1,0 +1,16 @@
+D:\Coding\C#\GC\GC\bin\Debug\GC.exe.config
+D:\Coding\C#\GC\GC\bin\Debug\GC.exe
+D:\Coding\C#\GC\GC\bin\Debug\GC.pdb
+D:\Coding\C#\GC\GC\obj\Debug\GC.csproj.AssemblyReference.cache
+D:\Coding\C#\GC\GC\obj\Debug\GC.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\GC\GC\obj\Debug\GC.csproj.CoreCompileInputs.cache
+D:\Coding\C#\GC\GC\obj\Debug\GC.exe
+D:\Coding\C#\GC\GC\obj\Debug\GC.pdb
+F:\Coding\C#\semester 2\GC\GC\bin\Debug\GC.exe.config
+F:\Coding\C#\semester 2\GC\GC\bin\Debug\GC.exe
+F:\Coding\C#\semester 2\GC\GC\bin\Debug\GC.pdb
+F:\Coding\C#\semester 2\GC\GC\obj\Debug\GC.csproj.AssemblyReference.cache
+F:\Coding\C#\semester 2\GC\GC\obj\Debug\GC.csproj.SuggestedBindingRedirects.cache
+F:\Coding\C#\semester 2\GC\GC\obj\Debug\GC.csproj.CoreCompileInputs.cache
+F:\Coding\C#\semester 2\GC\GC\obj\Debug\GC.exe
+F:\Coding\C#\semester 2\GC\GC\obj\Debug\GC.pdb

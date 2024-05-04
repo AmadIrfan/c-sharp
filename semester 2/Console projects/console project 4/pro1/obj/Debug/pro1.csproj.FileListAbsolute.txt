@@ -1,0 +1,16 @@
+D:\Coding\pro1\pro1\bin\Debug\pro1.exe.config
+D:\Coding\pro1\pro1\bin\Debug\pro1.exe
+D:\Coding\pro1\pro1\bin\Debug\pro1.pdb
+D:\Coding\pro1\pro1\obj\Debug\pro1.csproj.AssemblyReference.cache
+D:\Coding\pro1\pro1\obj\Debug\pro1.csproj.SuggestedBindingRedirects.cache
+D:\Coding\pro1\pro1\obj\Debug\pro1.csproj.CoreCompileInputs.cache
+D:\Coding\pro1\pro1\obj\Debug\pro1.exe
+D:\Coding\pro1\pro1\obj\Debug\pro1.pdb
+F:\Coding\C#\semester 2\pro1\pro1\bin\Debug\pro1.exe.config
+F:\Coding\C#\semester 2\pro1\pro1\bin\Debug\pro1.exe
+F:\Coding\C#\semester 2\pro1\pro1\bin\Debug\pro1.pdb
+F:\Coding\C#\semester 2\pro1\pro1\obj\Debug\pro1.csproj.AssemblyReference.cache
+F:\Coding\C#\semester 2\pro1\pro1\obj\Debug\pro1.csproj.SuggestedBindingRedirects.cache
+F:\Coding\C#\semester 2\pro1\pro1\obj\Debug\pro1.csproj.CoreCompileInputs.cache
+F:\Coding\C#\semester 2\pro1\pro1\obj\Debug\pro1.exe
+F:\Coding\C#\semester 2\pro1\pro1\obj\Debug\pro1.pdb

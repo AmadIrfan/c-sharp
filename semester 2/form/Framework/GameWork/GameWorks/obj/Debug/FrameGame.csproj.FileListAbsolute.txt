@@ -1,0 +1,14 @@
+D:\Coding\C#\Framework\GameWork\GameWorks\bin\Debug\GameWorks.exe.config
+D:\Coding\C#\Framework\GameWork\GameWorks\bin\Debug\GameWorks.exe
+D:\Coding\C#\Framework\GameWork\GameWorks\bin\Debug\GameWorks.pdb
+D:\Coding\C#\Framework\GameWork\GameWorks\bin\Debug\GameWork.dll
+D:\Coding\C#\Framework\GameWork\GameWorks\bin\Debug\GameWork.pdb
+D:\Coding\C#\Framework\GameWork\GameWorks\obj\Debug\FrameGame.csproj.AssemblyReference.cache
+D:\Coding\C#\Framework\GameWork\GameWorks\obj\Debug\FrameGame.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Framework\GameWork\GameWorks\obj\Debug\GameWorks.Dav.resources
+D:\Coding\C#\Framework\GameWork\GameWorks\obj\Debug\GameWorks.Properties.Resources.resources
+D:\Coding\C#\Framework\GameWork\GameWorks\obj\Debug\FrameGame.csproj.GenerateResource.cache
+D:\Coding\C#\Framework\GameWork\GameWorks\obj\Debug\FrameGame.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Framework\GameWork\GameWorks\obj\Debug\FrameGame.csproj.CopyComplete
+D:\Coding\C#\Framework\GameWork\GameWorks\obj\Debug\GameWorks.exe
+D:\Coding\C#\Framework\GameWork\GameWorks\obj\Debug\GameWorks.pdb

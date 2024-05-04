@@ -1,0 +1,9 @@
+D:\Coding\C#\FrameWork\FrameWork\bin\Debug\FrameWork.dll
+D:\Coding\C#\FrameWork\FrameWork\bin\Debug\FrameWork.pdb
+D:\Coding\C#\FrameWork\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+D:\Coding\C#\FrameWork\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+D:\Coding\C#\FrameWork\FrameWork\obj\Debug\FrameWork.dll
+D:\Coding\C#\FrameWork\FrameWork\obj\Debug\FrameWork.pdb
+D:\Coding\C#\FrameWork\FrameWork\bin\Debug\EZInput.dll
+D:\Coding\C#\FrameWork\FrameWork\bin\Debug\EZInput.xml
+D:\Coding\C#\FrameWork\FrameWork\obj\Debug\FrameWork.csproj.CopyComplete

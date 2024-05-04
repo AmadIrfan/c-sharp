@@ -1,0 +1,26 @@
+D:\Coding\C#\form\amad\amad\bin\Debug\amad.exe.config
+D:\Coding\C#\form\amad\amad\bin\Debug\amad.exe
+D:\Coding\C#\form\amad\amad\bin\Debug\amad.pdb
+D:\Coding\C#\form\amad\amad\obj\Debug\amad.csproj.AssemblyReference.cache
+D:\Coding\C#\form\amad\amad\obj\Debug\amad.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\form\amad\amad\obj\Debug\amad.Form1.resources
+D:\Coding\C#\form\amad\amad\obj\Debug\amad.Properties.Resources.resources
+D:\Coding\C#\form\amad\amad\obj\Debug\amad.csproj.GenerateResource.cache
+D:\Coding\C#\form\amad\amad\obj\Debug\amad.csproj.CoreCompileInputs.cache
+D:\Coding\C#\form\amad\amad\obj\Debug\amad.exe
+D:\Coding\C#\form\amad\amad\obj\Debug\amad.pdb
+D:\Coding\C#\form\amad\amad\obj\Debug\amad.firstWindow.resources
+D:\Coding\C#\form\amad\amad\obj\Debug\amad.Form2.resources
+F:\Coding\C#\semester 2\form\amad\amad\bin\Debug\amad.exe.config
+F:\Coding\C#\semester 2\form\amad\amad\bin\Debug\amad.exe
+F:\Coding\C#\semester 2\form\amad\amad\bin\Debug\amad.pdb
+F:\Coding\C#\semester 2\form\amad\amad\obj\Debug\amad.csproj.AssemblyReference.cache
+F:\Coding\C#\semester 2\form\amad\amad\obj\Debug\amad.csproj.SuggestedBindingRedirects.cache
+F:\Coding\C#\semester 2\form\amad\amad\obj\Debug\amad.firstWindow.resources
+F:\Coding\C#\semester 2\form\amad\amad\obj\Debug\amad.Form1.resources
+F:\Coding\C#\semester 2\form\amad\amad\obj\Debug\amad.Form2.resources
+F:\Coding\C#\semester 2\form\amad\amad\obj\Debug\amad.Properties.Resources.resources
+F:\Coding\C#\semester 2\form\amad\amad\obj\Debug\amad.csproj.GenerateResource.cache
+F:\Coding\C#\semester 2\form\amad\amad\obj\Debug\amad.csproj.CoreCompileInputs.cache
+F:\Coding\C#\semester 2\form\amad\amad\obj\Debug\amad.exe
+F:\Coding\C#\semester 2\form\amad\amad\obj\Debug\amad.pdb

@@ -1,0 +1,14 @@
+C:\Users\Amad Irfan\source\repos\Coffee_shop\Coffee_shop\bin\Debug\Coffee_shop.exe.config
+C:\Users\Amad Irfan\source\repos\Coffee_shop\Coffee_shop\bin\Debug\Coffee_shop.exe
+C:\Users\Amad Irfan\source\repos\Coffee_shop\Coffee_shop\bin\Debug\Coffee_shop.pdb
+C:\Users\Amad Irfan\source\repos\Coffee_shop\Coffee_shop\obj\Debug\Coffee_shop.csproj.AssemblyReference.cache
+C:\Users\Amad Irfan\source\repos\Coffee_shop\Coffee_shop\obj\Debug\Coffee_shop.csproj.CoreCompileInputs.cache
+C:\Users\Amad Irfan\source\repos\Coffee_shop\Coffee_shop\obj\Debug\Coffee_shop.exe
+C:\Users\Amad Irfan\source\repos\Coffee_shop\Coffee_shop\obj\Debug\Coffee_shop.pdb
+D:\Coding\C#\assignment\Coffee_shop\Coffee_shop\bin\Debug\Coffee_shop.exe.config
+D:\Coding\C#\assignment\Coffee_shop\Coffee_shop\bin\Debug\Coffee_shop.exe
+D:\Coding\C#\assignment\Coffee_shop\Coffee_shop\bin\Debug\Coffee_shop.pdb
+D:\Coding\C#\assignment\Coffee_shop\Coffee_shop\obj\Debug\Coffee_shop.csproj.AssemblyReference.cache
+D:\Coding\C#\assignment\Coffee_shop\Coffee_shop\obj\Debug\Coffee_shop.csproj.CoreCompileInputs.cache
+D:\Coding\C#\assignment\Coffee_shop\Coffee_shop\obj\Debug\Coffee_shop.exe
+D:\Coding\C#\assignment\Coffee_shop\Coffee_shop\obj\Debug\Coffee_shop.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameWork", "GameWork\GameWork.csproj", "{79E8C408-58E0-4201-A795-69DD74C95267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameGame", "GameWorks\FrameGame.csproj", "{B6757F6D-ECA0-4564-AE50-BF91E8B6505B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79E8C408-58E0-4201-A795-69DD74C95267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E8C408-58E0-4201-A795-69DD74C95267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E8C408-58E0-4201-A795-69DD74C95267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E8C408-58E0-4201-A795-69DD74C95267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6757F6D-ECA0-4564-AE50-BF91E8B6505B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6757F6D-ECA0-4564-AE50-BF91E8B6505B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6757F6D-ECA0-4564-AE50-BF91E8B6505B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6757F6D-ECA0-4564-AE50-BF91E8B6505B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76BA8226-F876-49DD-B009-5B128F5032DA}
+	EndGlobalSection
+EndGlobal

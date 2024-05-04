@@ -1,0 +1,24 @@
+D:\Coding\C#\form\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Coding\C#\form\calculator\calculator\bin\Debug\calculator.exe
+D:\Coding\C#\form\calculator\calculator\bin\Debug\calculator.pdb
+D:\Coding\C#\form\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\Coding\C#\form\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\form\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Coding\C#\form\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Coding\C#\form\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\Coding\C#\form\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\Coding\C#\form\calculator\calculator\obj\Debug\calculator.exe
+D:\Coding\C#\form\calculator\calculator\obj\Debug\calculator.pdb
+D:\Coding\C#\form\calculator\calculator\obj\Debug\calculator.view.resources
+F:\Coding\C#\semester 2\form\calculator\calculator\bin\Debug\calculator.exe.config
+F:\Coding\C#\semester 2\form\calculator\calculator\bin\Debug\calculator.exe
+F:\Coding\C#\semester 2\form\calculator\calculator\bin\Debug\calculator.pdb
+F:\Coding\C#\semester 2\form\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+F:\Coding\C#\semester 2\form\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+F:\Coding\C#\semester 2\form\calculator\calculator\obj\Debug\calculator.Form1.resources
+F:\Coding\C#\semester 2\form\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+F:\Coding\C#\semester 2\form\calculator\calculator\obj\Debug\calculator.view.resources
+F:\Coding\C#\semester 2\form\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+F:\Coding\C#\semester 2\form\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+F:\Coding\C#\semester 2\form\calculator\calculator\obj\Debug\calculator.exe
+F:\Coding\C#\semester 2\form\calculator\calculator\obj\Debug\calculator.pdb

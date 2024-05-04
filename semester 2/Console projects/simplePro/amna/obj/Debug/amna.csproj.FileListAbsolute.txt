@@ -1,0 +1,8 @@
+D:\Coding\C#\form\amna\amna\bin\Debug\amna.exe.config
+D:\Coding\C#\form\amna\amna\bin\Debug\amna.exe
+D:\Coding\C#\form\amna\amna\bin\Debug\amna.pdb
+D:\Coding\C#\form\amna\amna\obj\Debug\amna.csproj.AssemblyReference.cache
+D:\Coding\C#\form\amna\amna\obj\Debug\amna.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\form\amna\amna\obj\Debug\amna.csproj.CoreCompileInputs.cache
+D:\Coding\C#\form\amna\amna\obj\Debug\amna.exe
+D:\Coding\C#\form\amna\amna\obj\Debug\amna.pdb
